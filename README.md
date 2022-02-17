@@ -1,1 +1,1 @@
-![Ekran Goruntusu](Screenshot_7.png "Ekran Goruntusu")
+![Ekran Goruntusu](img/Screenshot_7.png "Ekran Goruntusu")
