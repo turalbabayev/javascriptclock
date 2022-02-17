@@ -1,0 +1,1 @@
+![Ekran Goruntusu](Screenshot_7.png "Ekran Goruntusu")
